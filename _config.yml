@@ -85,7 +85,7 @@ author:
   bio              : "Principal Project Scientist/Engineer at Department of Civil Engineering, IIT Delhi"
   location         : "New Delhi, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=k88yg8QAAAAJ&hl"
   email            : "chandra.sourav2009@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sourav-Chandra-2" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://de.linkedin.com/in/sourav-chandra-35145b35"
+  linkedin         :  "https://www.linkedin.com/in/sourav-chandra-35145b35/"
   orcid            : "https://orcid.org/0000-0002-4909-2757" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
