@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sourav's Home Page"
 title_separator          : "-"
 name                     : &name "Sourav Chandra"
-description              : &description "personal description"
+description              : &description "Currently, I am a Post-doctoral Fellow at Indian Institute of Technology (IIT) Delhi, India."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sourav Chandra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Principal Project Scientist/Engineer at Department of Civil Engineering, IIT Delhi"
+  location         : "New Delhi, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.in/citations?user=k88yg8QAAAAJ&hl"
+  email            : "chandra.sourav2009@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Sourav-Chandra-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "https://de.linkedin.com/in/sourav-chandra-35145b35"
+  orcid            : "https://orcid.org/0000-0002-4909-2757" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
