@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Profile"
-    url: /profile/
-
   - title: "Publications"
     url: /publications/
-
-  - title: "Awards and Recognition"
-    url: /award/
 
   #- title: "Talks"
     # url: /talks/    
@@ -15,8 +9,8 @@ main:
   # - title: "Teaching"
     # url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
