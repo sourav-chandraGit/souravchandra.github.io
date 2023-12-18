@@ -13,7 +13,7 @@ name                     : &name "Sourav Chandra"
 description              : &description "Currently, I am a Post-doctoral Fellow at Indian Institute of Technology (IIT) Delhi, India."
 url                      : https://souravchandra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "souravchandra.github/souravchandra.github.io"
+repository               : "sourav-chandraGit/souravchandra.github.io" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
